@@ -1,0 +1,27 @@
+<svg width="1280" height="640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#4ade80"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity="0.8">
+    <path d="M0,580 C200,520 400,620 640,560 C880,500 1080,640 1280,560" />
+    <path d="M0,500 C240,460 420,520 640,480 C860,440 1060,520 1280,480" />
+    <path d="M0,420 C280,380 440,420 640,400 C840,380 1060,420 1280,400" />
+  </g>
+  <text x="640" y="280" text-anchor="middle" fill="#22c55e" font-family="Segoe UI,Arial" font-size="64" font-weight="700">
+    Furkan — AI Engineer
+  </text>
+  <text x="640" y="350" text-anchor="middle" fill="#a3e635" font-family="Segoe UI,Arial" font-size="28">
+    Deep Learning • Computer Vision • NLP
+  </text>
+  <text x="640" y="420" text-anchor="middle" fill="#d9f99d" font-family="Segoe UI,Arial" font-size="22">
+    github.com/furzeus
+  </text>
+</svg>
