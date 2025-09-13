@@ -41,7 +41,7 @@
 <!-- En Çok Kullanılan Diller -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furzeus&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Langs" />
 ## 🧭 Diğer Linkler
-- [Kişisel Blog](https://patron.dev) · [Medium](https://medium.com/@patron) · [Akademi Projelerim](https://akademi.com/patron)
+- [Instagram](https://www.instagram.com/furkanyenier/)  · [Worp](https://worp.me/fufan)
 
 ---
 
