@@ -33,8 +33,7 @@
 
 ## 📈 GitHub İstatistiklerim
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=FurZeusr&theme=dark&hide_border=true" /><!-- Genel İstatistik -->
-<img src="https://github-readme-stats.vercel.app/api?username=furzeus&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=furzeus&theme=github-dark&hide_border=true" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api?username=furzeus&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furzeus&layout=compact&theme=chartreuse-dark&hide_border=true&v=1" alt="Top Langs" />
 ## 🧭 Diğer Linkler
 - [Instagram](https://www.instagram.com/furkanyenier/)  · [Worp](https://worp.me/fufan)
