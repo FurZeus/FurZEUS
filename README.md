@@ -33,8 +33,7 @@
 
 ## 📈 GitHub İstatistiklerim
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=FurZeus&theme=green-nur&hide_border=true" alt="GitHub Streak" />
-<!-- Genel İstatistik -->
+<img src="https://streak-stats.demolab.com?user=FurZeusr&theme=dark&hide_border=true" /><!-- Genel İstatistik -->
 <img src="https://github-readme-stats.vercel.app/api?username=furzeus&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furzeus&layout=compact&theme=chartreuse-dark&hide_border=true&v=1" alt="Top Langs" />
 ## 🧭 Diğer Linkler
