@@ -32,8 +32,7 @@
 - 🛠️ **3D Yazıcı Pazar Yeri** – Topluluk bazlı parça paylaşım platformu.
 
 ## 📈 GitHub İstatistiklerim
-<img src="https://github-readme-stats.vercel.app/api?username=furzeus&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furzeus&layout=compact&theme=chartreuse-dark&hide_border=true&v=1" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=furzeus&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furzeus&layout=compact&theme=chartreuse-dark&hide_border=true&v=1" alt="Top Langs" />
 ## 🧭 Diğer Linkler
 - [Instagram](https://www.instagram.com/furkanyenier/)  · [Worp](https://worp.me/fufan)
 
